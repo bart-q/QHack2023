@@ -11,7 +11,7 @@ Bartosz Tomsia, Grant Costa, Tyler Cowan
 **How to run the code on Google Colaboratory:**
 
 1. Open VQE Qiskit.ipynb in Google Colaboratory 
-2. Runtime --> Run all. The code blocks until section "Bond Distance Data Collection" will take approximately 10 minutes to run on a laptop.
+2. Runtime --> Run all. The code blocks until section "Bond Distance Data Collection" will take approximately 5 minutes to run on a laptop.
 3. The remaining code blocks will take approximately 30-40 minutes, and constitute analysis of our VQE model. 
 
 The code can be run in Google Colab or on qBraid. We found qBraid to be approximately twice as fast. 
