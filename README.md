@@ -27,3 +27,17 @@ instead of
 
 
 **References for this project**
+[1] https://github.com/Qiskit-Partners/mapomatic
+[2] https://pennylane.ai/qml/demos/tutorial_mol_geo_opt.html
+[3] https://arxiv.org/abs/2111.05176
+[4] https://qiskit.org/documentation/partners/qiskit_ibm_runtime/how_to/error-suppression.html 
+[5] https://mitiq.readthedocs.io/en/stable/examples/simple-landscape-qiskit.html
+[6] https://pennylane.ai/qml/demos/tutorial_error_mitigation.html#mitigating-noisy-circuits-in-quantum-chemistry
+[7] https://qiskit.org/documentation/nature/howtos/adapt_vqe.html
+[8] https://github.com/qulacs/Quantaggle_dataset/blob/master/datasets/Small_Molecules_1/README.md
+[9] https://arxiv.org/abs/1704.05018
+[10] https://arxiv.org/abs/2203.14756
+[11] https://qiskit.org/textbook/ch-applications/vqe-molecules.html
+[12] https://github.com/aws/amazon-braket-examples/blob/main/examples/hybrid_jobs/4_Embedded_simulators_in_Braket_Jobs/Embedded_simulators_in_Braket_Jobs.ipynb
+[13] https://pennylane.ai/qml/demos/tutorial_qubit_tapering.html
+[14] https://medium.com/qiskit/qiskit-nature-0-5-toward-quantum-centric-supercomputing-in-the-realm-of-natural-sciences-a2fe854737cf
