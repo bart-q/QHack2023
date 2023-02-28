@@ -10,7 +10,7 @@ Bartosz Tomsia, Grant Costa, Tyler Cowan
 
 **How to run the code on Google Colaboratory:**
 
-1. Open VQE Qiskit.ipynb in Google Colaboratory 
+1. Open QHack2023_submission.ipynb in Google Colaboratory 
 2. Runtime --> Run all. The code blocks until section "Bond Distance Data Collection" will take approximately 5 minutes to run on a laptop.
 3. The remaining code blocks will take approximately 30-40 minutes, and constitute analysis of our VQE model. 
 
