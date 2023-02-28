@@ -4,6 +4,12 @@
 This VQE is used to run a 5 qubit model of BeH2 and determine the ground state energy within chemical accuracy on a noiseless simulator. Noisy 6 qubit model results are also included in the Jupyter Notebook. We have also evaluated the accuracy of this model for varying bond distance in the molecular geometry, indicating greater accuracy as bond distance increases, and an ideal bond distance of approximately 1.3 Angstrom. This works lays the groundwork for more efficient simulation on a real QPU in the NISQ era, with as few as 5 qubits.
 
 
+**Contributors**
+Bartosz Tomsia
+Grant Costa
+Tyler Cowan
+
+
 **How to run the code on Google Colaboratory:**
 
 1. Open VQE Qiskit.ipynb in Google Colaboratory 
