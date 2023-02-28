@@ -12,7 +12,7 @@ This VQE is used to run a 5 qubit model of BeH2 and determine the ground state e
 
 The code can be run in Google Colab or on qBraid. We found qBraid to be approximately twice as fast. 
 
-Qbraid Instructions:
+**Qbraid Instructions:**
 
 Same as Google Colaboratory, except do installation in the first codeblock via :
  %pip install qiskit qiskit-nature[pyscf] pylatexenc --quiet
