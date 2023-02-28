@@ -23,3 +23,7 @@ Same as Google Colaboratory, except do installation in the first codeblock via :
 
 instead of 
 !pip install qiskit qiskit-nature[pyscf] pylatexenc -U --quiet
+
+
+
+**References for this project**
