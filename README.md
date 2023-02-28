@@ -27,6 +27,8 @@ instead of
 
 
 **References for this project**
+
+
 [1] https://github.com/Qiskit-Partners/mapomatic
 [2] https://pennylane.ai/qml/demos/tutorial_mol_geo_opt.html
 [3] https://arxiv.org/abs/2111.05176
